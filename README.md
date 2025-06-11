@@ -1,3 +1,15 @@
+A simple, responsive registration form built with React, TypeScript, and Tailwind CSS, featuring custom validation and routing. It includes:
+
+Input validation with helpful error messages
+
+Navigation using React Router
+
+A mock 3-step flow: Register → Validate Code → Success
+
+Perfect for practicing form handling, validation, and basic routing in React.
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
